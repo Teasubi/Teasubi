@@ -1,4 +1,8 @@
-## Hi there 👋
+## hello hello 👋
+
+## i am currently learning the basics but hope to catch up quickly !
+
+
 
 <!--
 **Teasubi/Teasubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
